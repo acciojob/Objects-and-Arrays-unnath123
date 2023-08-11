@@ -16,8 +16,8 @@ window.cap1 = cap1;
 let team=players;
 let team1=[];
 
-players.forEach(function(ele)){
-	team1.push(ele);
+for(let i=0;i<players.length;i++){
+	teams1[i]=players[i];
 }
 
 
