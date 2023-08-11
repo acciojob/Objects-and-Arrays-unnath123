@@ -21,6 +21,4 @@ players.forEach(function(ele)){
 }
 
 
-let cap1{
-	...person
-};			
+let cap1=person;
