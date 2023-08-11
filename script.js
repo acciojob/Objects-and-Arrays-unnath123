@@ -12,3 +12,15 @@ window.person = person;
 window.team = team;
 window.team1 = team1;
 window.cap1 = cap1;
+
+let team=players;
+let team1=[];
+
+players.forEach(function(ele)){
+	team1.push(ele);
+}
+
+
+let cap1{
+	...person
+};			
