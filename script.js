@@ -17,7 +17,7 @@ let team=players;
 let team1=[];
 
 for(let i=0;i<players.length;i++){
-	teams1[i]=players[i];
+	team1[i]=players[i];
 }
 
 
